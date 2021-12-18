@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cykalingo/static/css/main.90f27b89.chunk.css",
+    "main.js": "/Cykalingo/static/js/main.e0445a05.chunk.js",
+    "main.js.map": "/Cykalingo/static/js/main.e0445a05.chunk.js.map",
+    "runtime-main.js": "/Cykalingo/static/js/runtime-main.8d771da5.js",
+    "runtime-main.js.map": "/Cykalingo/static/js/runtime-main.8d771da5.js.map",
+    "static/js/2.3bf9a58d.chunk.js": "/Cykalingo/static/js/2.3bf9a58d.chunk.js",
+    "static/js/2.3bf9a58d.chunk.js.map": "/Cykalingo/static/js/2.3bf9a58d.chunk.js.map",
+    "static/js/3.ae340122.chunk.js": "/Cykalingo/static/js/3.ae340122.chunk.js",
+    "static/js/3.ae340122.chunk.js.map": "/Cykalingo/static/js/3.ae340122.chunk.js.map",
+    "index.html": "/Cykalingo/index.html",
+    "static/css/main.90f27b89.chunk.css.map": "/Cykalingo/static/css/main.90f27b89.chunk.css.map",
+    "static/js/2.3bf9a58d.chunk.js.LICENSE.txt": "/Cykalingo/static/js/2.3bf9a58d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d771da5.js",
+    "static/js/2.3bf9a58d.chunk.js",
+    "static/css/main.90f27b89.chunk.css",
+    "static/js/main.e0445a05.chunk.js"
+  ]
+}
