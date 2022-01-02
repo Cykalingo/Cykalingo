@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cykalingo/static/css/main.496c28d2.chunk.css",
-    "main.js": "/cykalingo/static/js/main.2f0dbe2e.chunk.js",
-    "main.js.map": "/cykalingo/static/js/main.2f0dbe2e.chunk.js.map",
+    "main.js": "/cykalingo/static/js/main.af78878b.chunk.js",
+    "main.js.map": "/cykalingo/static/js/main.af78878b.chunk.js.map",
     "runtime-main.js": "/cykalingo/static/js/runtime-main.9b84d511.js",
     "runtime-main.js.map": "/cykalingo/static/js/runtime-main.9b84d511.js.map",
     "static/js/2.3bf9a58d.chunk.js": "/cykalingo/static/js/2.3bf9a58d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9b84d511.js",
     "static/js/2.3bf9a58d.chunk.js",
     "static/css/main.496c28d2.chunk.css",
-    "static/js/main.2f0dbe2e.chunk.js"
+    "static/js/main.af78878b.chunk.js"
   ]
 }
